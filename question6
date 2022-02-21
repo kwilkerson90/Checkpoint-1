@@ -1,0 +1,3 @@
+#What can I do to prevent certain files and directories from being tracked by git?
+
+#You can use .gitignore to prevent files/directories from being tracked by git
